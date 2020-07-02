@@ -26,6 +26,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+|음식|영화|드라마|음악|스포츠|게임|동물|취미|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|망고|해리포터|미스터션샤인|Yellow-Coldplay|축구|카트라이더|강아지|영화보기|
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
